@@ -115,3 +115,6 @@ export function unregister() {
     });
   }
 }
+// In production, we register a service worker to serve assets from local cache.
+
+// this is the add text 
